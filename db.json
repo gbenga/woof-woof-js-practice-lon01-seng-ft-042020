@@ -40,7 +40,10 @@
       "id": 7,
       "name": "Puddles",
       "isGoodDog": true,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_7.jpg"
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_7.jpg",
+      "formData": {
+        "isGoodDog": true
+      }
     },
     {
       "id": 8,
